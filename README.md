@@ -1,6 +1,6 @@
 # FEM-soft-mobile-machines
 
-These codes are used separately for:
+These codes in paper "Designing soft mobile machines enabled by dielectric elastomer minimum energy structures" are used separately for:
 
 1.figure-1-inchworm-inspired soft machine;
 
